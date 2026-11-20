@@ -2,5 +2,5 @@
 
 **Ktun Yazılım Mühendisliği - Görsel Programlama - Vize - Qt Köstebek Oyunu**
 
-**\[Oyun ekranı](image/Kostebek\_Ekran.png)**
+**!\[Oyun ekranı](image/Kostebek\_Ekran.png)**
 
