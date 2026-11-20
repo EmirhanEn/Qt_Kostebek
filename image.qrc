@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>image/arkaplan.png</file>
+        <file>image/kostebek.png</file>
+        <file>image/kuyu.png</file>
+        <file>image/SersemKostebek.png</file>
+    </qresource>
+</RCC>
